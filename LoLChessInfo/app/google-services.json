@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060010600759",
+    "firebase_url": "https://lolchessinfo.firebaseio.com",
+    "project_id": "lolchessinfo",
+    "storage_bucket": "lolchessinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060010600759:android:b04c735017c8188c",
+        "android_client_info": {
+          "package_name": "com.reno.lolchessinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060010600759-0fckc31qs05tg82j8ipucjhbsd19n6gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lolchessinfo",
+            "certificate_hash": "cac6281c9083d9456e3238e003d3d32c453058e6"
+          }
+        },
+        {
+          "client_id": "1060010600759-hk3jsae29sp95dll893vrugn93p4evk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkCYBPO4nJBqQIYLTQt6C5fOx0Yso86g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060010600759-hk3jsae29sp95dll893vrugn93p4evk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
